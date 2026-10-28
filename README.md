@@ -1,2 +1,1 @@
-# Mening-saytim
-Mening birinchi Veb-saytim
+# Typing Zigo
